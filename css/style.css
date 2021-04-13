@@ -1,0 +1,98 @@
+body{
+    background-image: url(/images/bk.jpg);
+    background-size: cover;
+}
+
+header{
+    font-family: 'Indie Flower', cursive;
+    width: 100%;
+    background-color: #00000096;
+    text-align: center;
+    margin-bottom: 150px;
+    height: 60px;
+}
+
+header h1{
+    font-size: 30px;
+    padding-top: 15px;
+    color: #fff;
+}
+
+
+#form{
+
+    width: 25%;
+    float: left;
+
+    margin-left: 60px;
+    margin-right: 90px;
+    background-color: #00000096;
+    padding: 30px;
+    color: #fff;
+    text-align: center;
+}
+
+#form h1{
+    font-size: 25px;
+    padding: 10px;
+}
+
+#form label{
+    
+}
+
+input ,select{
+    text-align: left;
+    margin: 10px;
+}
+
+#form button{
+    padding-left: 60px;
+    padding-right: 60px;
+    margin: 20px;
+}
+
+
+#employeeInfo{
+    width: 36%;
+    float: right;
+    background-color: #00000096;
+
+    margin-right: 250px;
+    color: #fff;
+    padding: 20px;
+}
+
+#employeeInfo table, th, td {
+    border: 2px solid #fff;
+    padding: 10px;
+}
+
+#total{
+    border: 2px solid #fff;
+    padding: 10px;
+    width: 120px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+
+main{
+    margin-bottom: 300px;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    bottom: 5px;
+    left: 50%;
+    
+}
+
+footer h1 {
+    text-align: center;
+}
